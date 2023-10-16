@@ -1,0 +1,2 @@
+# kotone
+Programmer's synthesizer
